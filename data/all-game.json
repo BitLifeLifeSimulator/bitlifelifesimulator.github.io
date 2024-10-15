@@ -115,5 +115,14 @@
         "cat": "Hot, New",
         "status": 1,
         "order": 13
+    },
+    {
+        "slug": "Bit-Life",
+        "title": "Bit Life",
+        "img": "Bit-Life.png",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/ac6a950a44d144139dabe7837aa4aab9/index.html?gd_sdk_referrer_url=https%3A%2F%2Fbitlifeonline.io%2F&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2JpdGxpZmVvbmxpbmUuaW8vIiwicGFyZW50RG9tYWluIjoiYml0bGlmZW9ubGluZS5pbyIsInRvcERvbWFpbiI6ImJpdGxpZmVvbmxpbmUuaW8iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9",
+        "cat": "Hot, New",
+        "status": 1,
+        "order": 14
     }
 ]
